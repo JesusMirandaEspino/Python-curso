@@ -1,2 +1,4 @@
-print(input('¿Quéestásestudiando?'))
-print(input('¿enquépaísvives?'))
+print('Tu nombre')
+nombre = input("> ")
+
+print(nombre)
