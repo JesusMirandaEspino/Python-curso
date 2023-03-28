@@ -4,4 +4,7 @@ print('Ingresa la primera parte')
 primer_nombre = input("> ")
 
 print('Ingresa la segunda parte')
-segunda_nombre = input("> ")
+segundo_nombre = input("> ")
+
+
+print('El nombre es: ', primer_nombre, ' ', segundo_nombre)
