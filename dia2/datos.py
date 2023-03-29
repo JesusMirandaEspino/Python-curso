@@ -14,3 +14,12 @@ print(('hola', 123, 'que tal', 789))
 print({'a', 'b', 'c', 'd', 'e', 'f'})
 #boolean
 print(True, False)
+
+nombre = 'Jesus'
+numero1 = 99
+numero2 = 101
+print(nombre)
+
+nombre = 'Geralt'
+print(nombre)
+print(numero1 + numero2)
