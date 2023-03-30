@@ -23,3 +23,9 @@ print(nombre)
 nombre = 'Geralt'
 print(nombre)
 print(numero1 + numero2)
+nombreA = 'Tony Soprano'
+edadA = 51
+
+nombreB = 'Julia'
+apellidoB = 'Roberts'
+nombrecompletoB = nombreB + ' ' + apellidoB
