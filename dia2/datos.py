@@ -32,3 +32,13 @@ nombrecompleto_b = nombre_b + ' ' + apellido_b
 
 curso = 'Python'
 print('Estás tomando un curso de ' + curso)
+
+mi_numero = 1
+otro_numero = 2.5
+mi_numero_a = 1 + 3.6
+otro_numero_a = 2.5 + 4
+
+print(type(mi_numero))
+print(type(otro_numero))
+print(type(mi_numero_a))
+print(type(otro_numero_a))
