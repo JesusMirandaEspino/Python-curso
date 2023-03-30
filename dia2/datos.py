@@ -16,16 +16,19 @@ print({'a', 'b', 'c', 'd', 'e', 'f'})
 print(True, False)
 
 nombre = 'Jesus'
-numero1 = 99
-numero2 = 101
+numero_1 = 99
+numero_2 = 101
 print(nombre)
 
-nombre = 'Geralt'
+nombre_2 = 'Geralt'
 print(nombre)
-print(numero1 + numero2)
-nombreA = 'Tony Soprano'
-edadA = 51
+print(numero_1 + numero_2)
+nombre_a = 'Tony Soprano'
+edad_a = 51
 
-nombreB = 'Julia'
-apellidoB = 'Roberts'
-nombrecompletoB = nombreB + ' ' + apellidoB
+nombre_b = 'Julia'
+apellido_b = 'Roberts'
+nombrecompleto_b = nombre_b + ' ' + apellido_b
+
+curso = 'Python'
+print('Estás tomando un curso de ' + curso)
