@@ -42,3 +42,11 @@ print(type(mi_numero))
 print(type(otro_numero))
 print(type(mi_numero_a))
 print(type(otro_numero_a))
+
+
+num_entero = 4
+print(type(num_entero))
+
+
+num_decimal = 4.5
+print(type(num_decimal))
