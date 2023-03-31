@@ -50,3 +50,16 @@ print(type(num_entero))
 
 num_decimal = 4.5
 print(type(num_decimal))
+
+
+num1 = 7.5
+num2 = 2.5
+print(type(num1 + num2))
+
+
+num3 = 5.8
+num4 = 6.4
+num5 = num3 + num4
+num6 = '31'
+print(int(num5))
+print(int(num6))
