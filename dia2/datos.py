@@ -63,3 +63,10 @@ num5 = num3 + num4
 num6 = '31'
 print(int(num5))
 print(int(num6))
+
+
+num1 = int(7.5)
+print(type(num1))
+
+num2 = float(10)
+print( type(num2))
