@@ -7,4 +7,5 @@ print(f'Mi auto es {auto} y de matricula {matricula}')
 
 
 print('Mi primer numero  es {} y el segundo numero es {}'.format(x, y))
-print(f'Mi primer numero es {x} y el segundo numero es {y}')
+print('Mi primer numero  es {} y el segundo numero es {} la suma es {}'.format(x, y, x + y ))
+print(f'Mi primer numero es {x} y el segundo numero es {y} yla suma es { x + y}')
