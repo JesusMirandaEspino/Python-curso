@@ -26,3 +26,8 @@ puntos_anteriores = 875
 puntos_nuevos = 350
 
 print(f'Has ganado {puntos_nuevos} puntos! En total, acumulas {puntos_anteriores + puntos_nuevos} puntos')
+
+
+print(f'Mi primer numero es {x} y el segundo numero es {y} y la resta es { x - y}')
+print(f'Mi primer numero es {x} y el segundo numero es {y} y la multiplicacion  es { x * y}')
+print(f'Mi primer numero es {x} y el segundo numero es {y} y la division es { x / y}')
