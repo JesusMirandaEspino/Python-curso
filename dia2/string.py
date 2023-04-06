@@ -27,7 +27,26 @@ puntos_nuevos = 350
 
 print(f'Has ganado {puntos_nuevos} puntos! En total, acumulas {puntos_anteriores + puntos_nuevos} puntos')
 
+x = 10
+y = 2
+z = 3
 
 print(f'Mi primer numero es {x} y el segundo numero es {y} y la resta es { x - y}')
 print(f'Mi primer numero es {x} y el segundo numero es {y} y la multiplicacion  es { x * y}')
 print(f'Mi primer numero es {x} y el segundo numero es {y} y la division es { x / y}')
+print(f'Mi primer numero es {x} y el segundo numero es {z} y la division al piso es { x // z}')
+print(f'Mi primer numero es {x} y el segundo numero es {y} y el modulo es { x % z}')
+print(f'Mi primer numero es {x} y el segundo numero es {y} y el modulo es { x**y}')
+
+
+
+x = 874
+z = 27
+
+print( x // z)
+
+
+x = 456
+z = 33
+
+print( x % z)
