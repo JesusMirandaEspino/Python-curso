@@ -56,3 +56,12 @@ raiz = 783**0.5
 print(raiz)
 
 
+numero_total = 2.5548
+valor = 95.666666666666
+
+print(round(numero_total, 2))
+
+print(round(90/7))
+print(round(valor, 3))
+
+
