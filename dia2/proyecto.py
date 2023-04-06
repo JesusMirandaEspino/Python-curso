@@ -3,7 +3,6 @@ nombre = input()
 print('Escribe tu ventas')
 ventas = int(input())
 
-comision = ventas * 13 / 100
-r_comision = round(comision)
+comision = round(ventas * 13 / 100)
 
 print(f'Hola {nombre}, tu comisiones de este mes son {comision}')
