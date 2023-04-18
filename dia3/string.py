@@ -14,4 +14,15 @@ print(resultado)
 resultado = texto.find('s')
 print(resultado)
 
+resultado = texto.replace('texto', 'escrito')
+print(resultado)
+
 print(c)
+
+frase = "Especialmente en las comunicaciones electrónicas, la escritura enteramente en mayúsculas equivale a gritar."
+r = frase.upper()
+print(r)
+
+lista_palabras = ["La","legibilidad","cuenta."]
+lista = ' '.join(lista_palabras)
+print(lista)
