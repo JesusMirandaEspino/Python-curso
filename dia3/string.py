@@ -26,3 +26,8 @@ print(r)
 lista_palabras = ["La","legibilidad","cuenta."]
 lista = ' '.join(lista_palabras)
 print(lista)
+
+texto = 'Si la implementación es difícil de explicar, puede que sea una mala idea.'
+parte1 = texto.replace('difícil', 'fácil')
+parte2 = parte1.replace('mala', 'buena')
+print(parte2)
