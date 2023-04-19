@@ -40,3 +40,12 @@ que sirve para hacer pruebas con phyton"""
 
 print('texto' in poema)
 print(len(poema))
+
+print("Repetición" * 15)
+
+
+poema = """Tierra mojada
+mis recuerdos de viaje,
+entre las lluvias"""
+
+print('agua' in poema)
