@@ -49,3 +49,7 @@ mis recuerdos de viaje,
 entre las lluvias"""
 
 print('agua' in poema)
+
+
+texto = 'electroencefalografista'
+print(len(texto))
