@@ -31,3 +31,12 @@ texto = 'Si la implementación es difícil de explicar, puede que sea una mala i
 parte1 = texto.replace('difícil', 'fácil')
 parte2 = parte1.replace('mala', 'buena')
 print(parte2)
+
+saludo1 = 'Ho'
+saludo2 = 'la'
+print(saludo1 * 10)
+poema = """Este es un texto de ejmplo
+que sirve para hacer pruebas con phyton"""
+
+print('texto' in poema)
+print(len(poema))
