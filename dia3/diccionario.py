@@ -18,3 +18,9 @@ print(lista['c2'][1])
 print(lista['c3']['s2'])
 print(nueva_lista['c3']['s2'].upper())
 print(lista.keys())
+
+
+mi_dic = {"nombre":"Karen", "apellido":"Jurgens", "edad":35, "ocupacion":"Periodista"}
+mi_dic['edad'] = 36
+mi_dic['ocupacion'] = 'Editora'
+mi_dic['pais'] = 'Colombia'
