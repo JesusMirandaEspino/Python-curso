@@ -1,0 +1,8 @@
+mi_tupla = (1,2,3,4,5,6, (10, 20))
+t = (1,2,3, 'a', 'b', 'c')
+print(mi_tupla)
+print(mi_tupla[2])
+print(mi_tupla[6][0])
+print(len(t))
+print(t.count(2))
+print(t.index(2))
