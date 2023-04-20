@@ -6,3 +6,7 @@ print(mi_tupla[6][0])
 print(len(t))
 print(t.count(2))
 print(t.index(2))
+
+
+mi_tupla = (1, 2, 3, 2, 3, 1, 3, 2, 3, 3, 3, 1, 3, 2, 2, 1, 3, 2)
+print(mi_tupla.count(2))
