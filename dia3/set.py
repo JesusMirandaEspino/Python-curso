@@ -25,3 +25,6 @@ mi_set_3 = mi_set_1.union(mi_set_2)
 sorteo = {"Camila", "Margarita", "Axel", "Jorge", "Miguel", "Mónica"}
 azar = sorteo.pop()
 sorteo.discard(azar)
+
+sorteo = {"Camila", "Margarita", "Axel", "Jorge", "Miguel", "Mónica"}
+sorteo.add('Damián')
