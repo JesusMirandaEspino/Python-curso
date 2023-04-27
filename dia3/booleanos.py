@@ -16,3 +16,12 @@ print(type(numero1))
 print(numero1)
 print(type(numero2))
 print(numero2)
+
+prueba = 5 > 2 + 1
+print(prueba)
+
+prueba = 17834/34 > 87*56
+print(prueba)
+
+resultado = 25**0.5 == 5
+print(resultado)
