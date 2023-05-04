@@ -54,3 +54,16 @@ if edad > 18:
         print("No puedes conducir. Necesitas contar con una licencia")
 else:
     print("No puedes conducir aún. Debes tener 18 años y contar con una licencia")
+
+
+habla_ingles = True
+sabe_python = False
+
+if habla_ingles and sabe_python:
+    print("Cumples con los requisitos para postularte")
+elif (not habla_ingles) and (not sabe_python):
+    print("Para postularte, necesitas saber programar en Python y tener conocimientos de inglés")
+elif not habla_ingles:
+    print("Para postularte, necesitas tener conocimientos de inglés")
+else:
+    print("Para postularte, necesitas saber programar en Python")
